@@ -159,13 +159,22 @@ The app can now be accessed from [http://ec2-18-237-179-198.us-west-2.compute.am
 
 
 Resources:
-	[https://www.process.st/checklist/ubuntu-server-setup-process/](https://www.process.st/checklist/ubuntu-server-setup-process/)
-	[https://devops.ionos.com/tutorials/deploy-a-flask-application-on-ubuntu-1404/](https://devops.ionos.com/tutorials/deploy-a-flask-application-on-ubuntu-1404/)
-	[https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
-	[https://realpython.com/kickstarting-flask-on-ubuntu-setup-and-deployment/](https://realpython.com/kickstarting-flask-on-ubuntu-setup-and-deployment/)
-	[https://www.codementor.io/abhishake/minimal-apache-configuration-for-deploying-a-flask-app-ubuntu-18-04-phu50a7ft](https://www.codementor.io/abhishake/minimal-apache-configuration-for-deploying-a-flask-app-ubuntu-18-04-phu50a7ft)
-	[https://linoxide.com/linux-how-to/install-flask-python-ubuntu/](https://linoxide.com/linux-how-to/install-flask-python-ubuntu/)
-	[https://tutorials.ubuntu.com/tutorial/install-and-configure-apache](https://tutorials.ubuntu.com/tutorial/install-and-configure-apache)
-	[https://realpython.com/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/](https://realpython.com/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/)
-	[https://blog.theodo.com/2017/03/developping-a-flask-web-app-with-a-postresql-database-making-all-the-possible-errors/](https://blog.theodo.com/2017/03/developping-a-flask-web-app-with-a-postresql-database-making-all-the-possible-errors/)
-	[https://vsupalov.com/flask-sqlalchemy-postgres/](https://vsupalov.com/flask-sqlalchemy-postgres/)
+[https://www.process.st/checklist/ubuntu-server-setup-process/](https://www.process.st/checklist/ubuntu-server-setup-process/)
+	
+[https://devops.ionos.com/tutorials/deploy-a-flask-application-on-ubuntu-1404/](https://devops.ionos.com/tutorials/deploy-a-flask-application-on-ubuntu-1404/)
+	
+[https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+	
+[https://realpython.com/kickstarting-flask-on-ubuntu-setup-and-deployment/](https://realpython.com/kickstarting-flask-on-ubuntu-setup-and-deployment/)
+	
+[https://www.codementor.io/abhishake/minimal-apache-configuration-for-deploying-a-flask-app-ubuntu-18-04-phu50a7ft](https://www.codementor.io/abhishake/minimal-apache-configuration-for-deploying-a-flask-app-ubuntu-18-04-phu50a7ft)
+	
+[https://linoxide.com/linux-how-to/install-flask-python-ubuntu/](https://linoxide.com/linux-how-to/install-flask-python-ubuntu/)
+	
+[https://tutorials.ubuntu.com/tutorial/install-and-configure-apache](https://tutorials.ubuntu.com/tutorial/install-and-configure-apache)
+	
+[https://realpython.com/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/](https://realpython.com/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/)
+	
+[https://blog.theodo.com/2017/03/developping-a-flask-web-app-with-a-postresql-database-making-all-the-possible-errors/](https://blog.theodo.com/2017/03/developping-a-flask-web-app-with-a-postresql-database-making-all-the-possible-errors/)
+	
+[https://vsupalov.com/flask-sqlalchemy-postgres/](https://vsupalov.com/flask-sqlalchemy-postgres/)
